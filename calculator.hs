@@ -7,6 +7,7 @@ main = do
     putStrLn "Enter the operator"
     operator <- getLine
 
+    --let x = 3
     let firstNumber = read firstStr :: Double
     let secondNumber = read secondStr :: Double
 

@@ -13,3 +13,21 @@
 [0m2021.12.15 14:40:49 WARN  Build server is not auto-connectable.[0m
 [0m2021.12.15 14:40:49 WARN  no build tool detected in workspace '/home/dhanyaharish/Documents/GitHub/haskell'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
 [0m2021.12.15 14:42:07 INFO  shutting down Metals[0m
+[0m2021.12.28 12:01:13 INFO  Started: Metals version 0.10.9 in workspace '/home/dhanyaharish/Documents/GitHub/haskell' for client Visual Studio Code 1.61.2.[0m
+[0m2021.12.28 12:01:15 INFO  time: initialize in 2.84s[0m
+[0m2021.12.28 12:01:18 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.28 12:01:18 WARN  no build tool detected in workspace '/home/dhanyaharish/Documents/GitHub/haskell'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.29 09:36:37 INFO  shutting down Metals[0m
+[0m2022.01.11 08:51:42 INFO  Started: Metals version 0.10.9 in workspace '/home/dhanyaharish/Documents/GitHub/haskell' for client Visual Studio Code 1.61.2.[0m
+[0m2022.01.11 08:51:48 INFO  time: initialize in 5.87s[0m
+[0m2022.01.11 08:51:53 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.11 08:51:53 WARN  no build tool detected in workspace '/home/dhanyaharish/Documents/GitHub/haskell'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2022.01.11 21:15:42 INFO  shutting down Metals[0m
+2022.02.02 08:21:27 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/dhanyaharish/Documents/GitHub/haskell/.metals/lsp.trace.json or /home/dhanyaharish/.var/app/com.visualstudio.code/cache/metals/lsp.trace.json
+2022.02.02 08:21:28 INFO  logging to file /home/dhanyaharish/Documents/GitHub/haskell/.metals/metals.log
+2022.02.02 08:21:28 INFO  Started: Metals version 0.11.1 in workspace '/home/dhanyaharish/Documents/GitHub/haskell' for client Visual Studio Code 1.61.2.
+2022.02.02 08:21:28 INFO  Parse release: 11.0.11
+2022.02.02 08:21:31 INFO  time: initialize in 2.63s
+2022.02.02 08:21:33 WARN  Build server is not auto-connectable.
+2022.02.02 08:21:33 WARN  no build tool detected in workspace '/home/dhanyaharish/Documents/GitHub/haskell'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.02.02 21:17:05 INFO  shutting down Metals

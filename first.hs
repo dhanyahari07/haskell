@@ -1,9 +1,12 @@
 add :: Integer -> Integer -> Integer   --function declaration 
 add x y =  x + y                       --function definition 
 
+
+sub :: (Integer,Integer) -> Integer   --function declaration 
+sub (x,y) =  x - y  
+
 inc :: Int -> Int     -- type signature
 inc x = x + 1         -- function equation
-
 
 double :: Int -> Int
 double x = 2 * x
@@ -35,3 +38,4 @@ main = do
    print(exclaim "amrita")
    print(showResult 123)
    print(showAreaOfCircle 5)
+   print(sub(4,5))

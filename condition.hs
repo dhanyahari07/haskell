@@ -3,7 +3,7 @@ main = do
    let val = var `rem` 2
    print(val)
    if  var `rem` 2 == 0 
-      then putStrLn "Number is Even" 
+       then putStrLn "Number is Even" 
    else putStrLn "Number is Odd"
 
    let var = 0 
